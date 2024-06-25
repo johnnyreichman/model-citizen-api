@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@google-cloud/vertexai": "^1.2.0",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "openai": "^4.47.3"
+  },
+  "name": "model-citizen-api",
+  "version": "1.0.0",
+  "description": "backend for model-citizen-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnyreichman/model-citizen-api.git"
+  },
+  "author": "Johnny Reichman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnnyreichman/model-citizen-api/issues"
+  },
+  "homepage": "https://github.com/johnnyreichman/model-citizen-api#readme"
+}
